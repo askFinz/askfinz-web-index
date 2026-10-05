@@ -8,7 +8,7 @@ The settled account of a subject, read from the maintained entry rather than a c
 
 ### How it divides
 
-337,444 entries are filed under Wikimedia Foundation — 100.0% of those that declare it.
+337,610 entries are filed under Wikimedia Foundation — 100.0% of those that declare it.
 
 ### What you can do with it
 

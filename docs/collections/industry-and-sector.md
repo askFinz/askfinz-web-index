@@ -8,7 +8,7 @@ Trade bodies and companies explaining their own market — where segment names a
 
 ### How it divides
 
-427,328 documents are filed under Aerospace & defence — 20.1% of those that declare it.
+427,345 documents are filed under Aerospace & defence — 20.1% of those that declare it.
 
 ### What you can do with it
 
