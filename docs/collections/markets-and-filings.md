@@ -6,10 +6,6 @@ Regulatory filings kept beside the earnings calls that explained them, with the 
 
 ## Key points
 
-### How it divides
-
-70,667 filings sit on the Companies tracked shelf — 76.0% of the collection.
-
 ### What you can do with it
 
 Read the numbers and the explanation together — The filed figures beside what management said about them on the call.
