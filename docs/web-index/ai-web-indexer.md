@@ -30,7 +30,7 @@ Most add an AI-written summary on top of the same link-based results they always
 
 ### How does askFinz decide what kind of document something is?
 
-Reading is staged — cheap methods handle the overwhelming majority of pages, and progressively more capable ones step in only for pages that need it. See how the index works for the three stages, without the specifics that would let a page defeat them.
+Reading is staged — cheap methods handle the overwhelming majority of pages, and progressively more capable ones step in only for pages that need it. See how the index works for the four stages, without the specifics that would let a page defeat them.
 
 ## Related
 

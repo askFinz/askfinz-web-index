@@ -1,12 +1,12 @@
 # How the index works
 
-askFinz reads the web itself and keeps its own index — three stages, a distributed fleet, and about 21.7 KB of storage per page.
+askFinz reads the web itself and keeps its own index — four stages, a distributed fleet, and about 21.6 KB of storage per page.
 
 **Canonical page:** [https://askfinz.com/how-the-index-works](https://askfinz.com/how-the-index-works)
 
 ## Key points
 
-### Three stages. Almost nothing reaches the third
+### Four stages. Almost nothing reaches the last
 
 Pages differ enormously in how hard they are to read. Rather than treat them all the same, each one starts cheap and only escalates if it has to.
 

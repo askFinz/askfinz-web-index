@@ -8,7 +8,7 @@ Property listings, the construction pipeline around them, building materials, an
 
 ### Listings, pipeline and materials, counted together
 
-Public tenders 912k notices Jurisdictions: Germany leads at 32 %
+Public tenders 976k notices Jurisdictions: Germany leads at 32 %
 
 ### Pick the part of the decision you are actually on
 
