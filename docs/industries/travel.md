@@ -8,7 +8,7 @@ Things to do and places to stay read from where they are published, with events 
 
 ### What is bookable, and what is happening around it
 
-307k records Travel Routes, stays and activities, read from the operators directly.
+318k records Travel Routes, stays and activities, read from the operators directly.
 
 ### The rooms that turn this into an itinerary
 

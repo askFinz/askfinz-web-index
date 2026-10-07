@@ -8,7 +8,7 @@ Roles read from the employer's own posting rather than an aggregator's copy, whi
 
 ### How it divides
 
-40,451 postings are filed under Medical — 44.6% of those that declare it.
+40,468 postings are filed under Medical — 44.4% of those that declare it.
 
 ### What you can do with it
 

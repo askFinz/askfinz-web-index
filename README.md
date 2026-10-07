@@ -13,7 +13,7 @@ askFinz runs its own index of the web rather than renting results from another s
 ## The web index
 
 - [Our own web index for AI, with sources](docs/web-index/web-index.md): askFinz runs its own real-time index of the web — fed by the browser extension, the desktop app, askFinz OS devices, indexer machines and partner sites.
-- [How the index works](docs/web-index/how-the-index-works.md): askFinz reads the web itself and keeps its own index — four stages, a distributed fleet, and about 21.6 KB of storage per page.
+- [How the index works](docs/web-index/how-the-index-works.md): askFinz reads the web itself and keeps its own index — three stages and a head start, a distributed fleet, and storage measured in kilobytes per page.
 - [The best web index for AI and LLM workflows](docs/web-index/best-web-index-for-ai.md): Most AI products rent someone else's search results. askFinz reads the web itself and answers from a standing index, filed by what each document is.
 - [What is web indexing?](docs/web-index/what-is-web-indexing.md): Web indexing in plain English: crawl, read, store, retrieve. Most indexes store links to pages — askFinz stores what the pages actually say.
 - [Web scraping alternative: index, don't scrape](docs/web-index/vs-web-scraping.md): Scraping charges you per page, every time, and breaks the moment a site redesigns. Indexing is done once, ahead of time, and stays fresh on its own.
@@ -86,4 +86,4 @@ askFinz runs its own index of the web rather than renting results from another s
 
 Every file here is a structured summary generated from the matching page on askfinz.com, and links back to it. The website is the source of truth; if the two ever differ, trust the site.
 
-Generated 2026-10-06.
+Generated 2026-10-07.

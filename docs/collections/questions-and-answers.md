@@ -8,7 +8,7 @@ Threads read for their resolution — the accepted answer rather than the longes
 
 ### How it divides
 
-21,921 threads sit on the Q&A and forums shelf — 98.2% of the collection.
+22,042 threads sit on the Q&A and forums shelf — 98.2% of the collection.
 
 ### What you can do with it
 
