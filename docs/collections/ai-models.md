@@ -8,7 +8,7 @@ Models published for others to use, held as records — so one can be found by w
 
 ### How it divides
 
-3,153 models are filed under pyTorch — 30.9% of those that declare it.
+3,155 models are filed under pyTorch — 30.9% of those that declare it.
 
 ### What you can do with it
 
