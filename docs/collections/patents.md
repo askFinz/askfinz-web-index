@@ -18,6 +18,10 @@ Search by what it does — Describe the invention in your own words and find the
 
 Which companies filed on solid-state batteries in Japan last year?
 
+### Written to
+
+A new record is a newly published publication. A revision replaces the text on the record that already exists rather than adding a second one, so the count does not double.
+
 ### Where it stops
 
 It is not a freedom-to-operate opinion. A search is where clearance starts; whether a claim reads on your product is a legal judgement.

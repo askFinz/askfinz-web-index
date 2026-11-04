@@ -8,7 +8,7 @@ Specifications from the bodies that issue them, repositories read with their doc
 
 ### Specifications, repositories, filings and threads
 
-834k specifications Standards & specifications +8% in the last seven days covers 1967–2026 2.6 KB per record, stored Who issues them: International Organization for Standardization 59 % · IETF 39 % · World Wide Web Consortium 1 %
+848k specifications Standards & specifications +6% in the last seven days covers 1967–2026 2.6 KB per record, stored Who issues them: International Organization for Standardization 59 % · IETF 39 % · World Wide Web Consortium 1 %
 
 ### A repository is only findable if its documentation was read
 
