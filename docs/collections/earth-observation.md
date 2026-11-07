@@ -8,7 +8,7 @@ Observations of the planet — its land, its atmosphere and its oceans — held 
 
 ### How it divides
 
-229,588 records are filed under Earthquake — 69.9% of those that declare it.
+229,968 records are filed under Earthquake — 69.9% of those that declare it.
 
 ### What you can do with it
 
