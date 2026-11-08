@@ -8,7 +8,7 @@ Libraries findable by what they do rather than what they are called, with the do
 
 ### How it divides
 
-126,087 repositories are filed under Python — 50.3% of those that declare it.
+127,439 repositories are filed under Python — 50.5% of those that declare it.
 
 ### What you can do with it
 
