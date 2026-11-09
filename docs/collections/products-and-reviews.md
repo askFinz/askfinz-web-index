@@ -8,7 +8,7 @@ The same item recognised across shops, so you compare a product rather than ten 
 
 ### How it divides
 
-942,454 products sit on the Products shelf — 81.9% of the collection.
+957,812 products sit on the Products shelf — 82.0% of the collection.
 
 ### What you can do with it
 
