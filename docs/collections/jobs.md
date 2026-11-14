@@ -8,7 +8,7 @@ Roles read from the employer's own posting rather than an aggregator's copy, whi
 
 ### How it divides
 
-41,460 postings are filed under Medical — 37.8% of those that declare it.
+41,577 postings are filed under Medical — 37.6% of those that declare it.
 
 ### What you can do with it
 
@@ -17,10 +17,6 @@ Read the employer's own words — Aggregator copies are frequently edited or out
 ### Filed to answer
 
 Which employers are hiring for this work, in their own words?
-
-### Written to
-
-A new record is a newly published posting. A revision replaces the text on the record that already exists rather than adding a second one, so the count does not double.
 
 ### Where it stops
 

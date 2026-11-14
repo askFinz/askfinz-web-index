@@ -8,7 +8,7 @@ What a programme actually teaches, read from the institution rather than a direc
 
 ### How it divides
 
-23,961 courses are filed under Personal development — 26.9% of those that declare it.
+24,229 courses are filed under Personal development — 26.9% of those that declare it.
 
 ### What you can do with it
 
@@ -17,10 +17,6 @@ See what is really covered — The syllabus itself, before committing time or mo
 ### Filed to answer
 
 Is this module an introduction, or does it assume a degree already?
-
-### Written to
-
-A new record is a newly published course. A revision replaces the text on the record that already exists rather than adding a second one, so the count does not double.
 
 ### Where it stops
 
