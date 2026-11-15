@@ -18,6 +18,10 @@ Use the sector's own vocabulary — Segment definitions come from the people who
 
 How does this industry divide itself into segments, and who decided those names?
 
+### Written to
+
+A new record is a newly published document. A revision replaces the text on the record that already exists rather than adding a second one, so the count does not double.
+
 ### Where it stops
 
 It is not neutral analysis. This is what an industry says about itself — read it as a source, never as a verdict.

@@ -8,7 +8,7 @@ The same item recognised across shops, so you compare a product rather than ten 
 
 ### How it divides
 
-1,055,939 products sit on the Products shelf — 83.2% of the collection.
+1,064,272 products sit on the Products shelf — 83.3% of the collection.
 
 ### What you can do with it
 
@@ -17,6 +17,10 @@ Compare an item, not ten listings — Duplicate listings collapse into the singl
 ### Filed to answer
 
 Which retailers carry this exact model, rather than one that looks like it?
+
+### Written to
+
+A new record is a newly published product. A revision replaces the text on the record that already exists rather than adding a second one, so the count does not double.
 
 ### Where it stops
 

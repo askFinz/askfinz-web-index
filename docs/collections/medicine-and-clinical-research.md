@@ -8,7 +8,7 @@ Registered studies kept as registry records — with phase, sponsor and recruiti
 
 ### How it divides
 
-1,070,571 records sit on the Medical knowledge shelf — 93.9% of the collection.
+1,073,673 records sit on the Medical knowledge shelf — 93.9% of the collection.
 
 ### What you can do with it
 
@@ -17,6 +17,10 @@ Find the trial, not the article about it — The registered study itself, rather
 ### Filed to answer
 
 Which trials for this condition are still recruiting, and where?
+
+### Written to
+
+A new record is something newly published. A revision replaces the text on the record that already exists rather than adding a second one, so the count does not double.
 
 ### Where it stops
 

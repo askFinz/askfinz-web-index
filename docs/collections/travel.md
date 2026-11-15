@@ -8,7 +8,7 @@ Routes, stays and activities read from operators, with dates and availability ke
 
 ### How it divides
 
-270,803 listings sit on the Things to do shelf — 74.7% of the collection.
+270,976 listings sit on the Things to do shelf — 74.2% of the collection.
 
 ### What you can do with it
 
@@ -17,6 +17,10 @@ Plan against what exists — Live listings rather than prose about a destination
 ### Filed to answer
 
 What is actually available on these dates, rather than what a guide recommends?
+
+### Written to
+
+A new record is a newly published listing. A revision replaces the text on the record that already exists rather than adding a second one, so the count does not double.
 
 ### Where it stops
 
