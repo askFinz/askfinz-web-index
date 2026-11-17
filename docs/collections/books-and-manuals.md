@@ -8,7 +8,7 @@ Product manuals and book-length texts read page by page — including the ones p
 
 ### How it divides
 
-200,485 documents sit on the Books shelf — 69.3% of the collection.
+201,035 documents sit on the Books shelf — 69.1% of the collection.
 
 ### What you can do with it
 

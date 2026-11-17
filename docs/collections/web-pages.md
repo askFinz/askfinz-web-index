@@ -8,7 +8,7 @@ Ordinary web pages, read and kept as pages. The collection everything else is fi
 
 ### How it divides
 
-83,231,667 passages are filed under General — 60.1% of those that declare it.
+85,444,418 passages are filed under General — 59.7% of those that declare it.
 
 ### What you can do with it
 
