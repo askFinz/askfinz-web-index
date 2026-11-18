@@ -14,6 +14,10 @@ Read production as data — Records rather than articles describing records.
 
 Which body published this production figure, and how do they define the measure?
 
+### Written to
+
+A new record is something newly published. A revision replaces the text on the record that already exists rather than adding a second one, so the count does not double.
+
 ### Where it stops
 
 It is not a live commodity feed. These are published records, with the period they belong to attached.
