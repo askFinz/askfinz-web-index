@@ -8,7 +8,7 @@ Threads read for their resolution — the accepted answer rather than the longes
 
 ### How it divides
 
-12,416 threads are filed under Hackernews — 52.2% of those that declare it.
+12,519 threads are filed under Hackernews — 52.4% of those that declare it.
 
 ### What you can do with it
 

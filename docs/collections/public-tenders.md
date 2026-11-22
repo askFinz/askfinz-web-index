@@ -8,7 +8,7 @@ Contract notices from public buyers — who is buying what, where, and by when.
 
 ### How it divides
 
-39,671 notices are filed under Germany — 24.5% of those that declare it.
+40,367 notices are filed under Germany — 24.6% of those that declare it.
 
 ### What you can do with it
 
