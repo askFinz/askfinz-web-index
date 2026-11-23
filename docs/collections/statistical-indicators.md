@@ -8,7 +8,7 @@ Economic and development indicators held as records rather than as pages describ
 
 ### How it divides
 
-9,921 indicators are filed under Monthly — 42.7% of those that declare it.
+10,151 indicators are filed under Monthly — 42.1% of those that declare it.
 
 ### What you can do with it
 

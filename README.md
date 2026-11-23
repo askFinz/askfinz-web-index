@@ -86,4 +86,4 @@ askFinz runs its own index of the web rather than renting results from another s
 
 Every file here is a structured summary generated from the matching page on askfinz.com, and links back to it. The website is the source of truth; if the two ever differ, trust the site.
 
-Generated 2026-11-22.
+Generated 2026-11-23.
