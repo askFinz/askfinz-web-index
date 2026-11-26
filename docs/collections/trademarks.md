@@ -8,7 +8,7 @@ Trademark registrations read from the offices that grant them — searchable by 
 
 ### How it divides
 
-117,490 marks are filed under European Union — 59.5% of those that declare it.
+117,490 marks are filed under European Union — 36.8% of those that declare it.
 
 ### What you can do with it
 
