@@ -8,7 +8,7 @@ Events and recipes held with their quantities, timings and places intact rather 
 
 ### How it divides
 
-495,730 entries sit on the Events shelf — 98.6% of the collection.
+511,156 entries sit on the Events shelf — 98.6% of the collection.
 
 ### What you can do with it
 

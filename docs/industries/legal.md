@@ -10,10 +10,6 @@ Judgments with their jurisdiction, statutes at the section, patent publications 
 
 An opinion carries the citation it can be referenced by, not a paraphrase of the holding.
 
-### Where these documents were filed, and under whose seal
-
-Read from the running index when this page was served. Shares are of the records that declare the field, not of the whole shelf.
-
 ### On currency, and what you can reach today
 
 We'll walk the collections above and show what a question of yours returns.

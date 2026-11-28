@@ -8,7 +8,7 @@ Trademark registrations read from the offices that grant them — searchable by 
 
 ### How it divides
 
-160,800 marks are filed under Canada — 36.8% of those that declare it.
+214,000 marks are filed under Canada — 39.4% of those that declare it.
 
 ### What you can do with it
 
